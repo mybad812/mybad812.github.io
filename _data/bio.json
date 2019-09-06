@@ -22,9 +22,11 @@
       },
       {
         "network": "linkedin",
-        "username": "mybad812",
+        "username": "jctang",
         "url": "http://linkedin.com/in/jctang"
-      },
+      }
+    ]
+  },
       
   "interests": [
     {
@@ -33,7 +35,7 @@
       ]
     },
     {
-      "name": "path of exile",
+      "name": "gaming",
       "keywords": [
       ]
     },
@@ -83,7 +85,6 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        
       ]
     },
     {
@@ -93,8 +94,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        
+      "highlights": [ 
       ]
     }
   ],
