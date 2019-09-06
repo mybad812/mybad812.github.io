@@ -2,43 +2,36 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Hash Algorithm (SHA-1) 
+permalink: projects
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-05-01
 labels:
-  - Robotics
-  - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: This project is to implement the Secure Hash Algorithm (SHA-1) in C or C++.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+ 
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+•	This algorithm takes a file, cuts up and mixes the data, and produces a hash value, which is a number in a specific range.
+•	The hash value for SHA1 is 160 bits long, so it has a decimal value of 2160, which is roughly the number of atoms on planet Earth.
+•	The SHA-1 hash value is often used in data security for such things as storing passwords securely, error detection, comparing files, and digital signatures.
+o	Today, many applications still rely on SHA-1, even though theoretical attacks have been known since 2005, and SHA-1 was officially deprecated by NIST in 2011. For more on this see:https://shattered.io/
+o	The attack proving SHA-1 vulnerability required over 9,223,372,036,854,775,808 SHA1 computations. This took the equivalent processing power as 6,500 years of single-CPU computations and 110 years of single-GPU computations.
+•	For detailed specifications of the algorithm, see the NIST document FIPS180-1-SecureHashStandard.pdf attached below.
+o	The specifications are "a bit technical", but you should spend some time reading it before attempting the project!
+o	The description of the algorithm begins on page 6.
+o	Appendices A-C have very detailed output that you can use to debug your program. Make sure you understand the document well enough to grasp what Appendix A is saying about the output.
+o	The 3 input files described in the appendices are attached below.
+	Appendix A input file is: abc.txt
+	Appendix B input file is: alpha.txt
+	Appendix C input file is: a.txt
+o	In the document, "word" refers to data type "int", both which are 32 bits.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
