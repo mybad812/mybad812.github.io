@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Javascript 1
+title: JavaScript is Killing me
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
