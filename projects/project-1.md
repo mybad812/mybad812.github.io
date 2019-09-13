@@ -11,9 +11,9 @@ labels:
 summary: This project is to implement the Secure Hash Algorithm (SHA-1) in C or C++.
 ---
 
-<div class="ui small rounded images">
+
  
-</div>
+
 
 •	This algorithm takes a file, cuts up and mixes the data, and produces a hash value, which is a number in a specific range.
 •	The hash value for SHA1 is 160 bits long, so it has a decimal value of 2160, which is roughly the number of atoms on planet Earth.
