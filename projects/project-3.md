@@ -11,9 +11,7 @@ labels:
 summary: A goal in Diablo3.
 ---
 
-<div class="ui small rounded images">
- 
-</div>
+
 
 So I made a barbarian in the game and I push my character to the top 50 in the us-west ladder with respect to my damage per secon.
 
