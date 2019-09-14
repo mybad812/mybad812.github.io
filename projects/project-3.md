@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/diablo3.jpg
 title: Diablo3
-permalink: projects
+permalink: projects/Diablo3
 # All dates must be YYYY-MM-DD format!
 date: 2012-05-01
 labels:
