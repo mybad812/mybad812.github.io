@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sh.jpg
 title: Hash Algorithm (SHA-1) 
-permalink: projects
+permalink: projects/Hash Algorithm (SHA-1)
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-01
 labels:
