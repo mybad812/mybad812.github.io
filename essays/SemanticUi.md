@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Learning
 ---
-
 To make a web page, we need to use three tools, html, CSS and javascript. The semantic UI is a very useful CSS tool. In fact, you can think of it as a good cosmetic because it looks better and easier than the normal CSS interface. Nowadays, whether a tool is good or not depends to a large extent on whether it integrates many useful modules. The semantic UI is such a tool that integrates a lot of beautiful UI modules to make web page production more efficient and beautiful.
 	
 
