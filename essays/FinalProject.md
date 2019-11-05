@@ -5,9 +5,11 @@ title: Smart Questions, Good Answers
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 labels:
+  - Final Project
   - Questions
-  - Answers
-  -
+  - Soluctions
+  - Ideas
+  
 ##Project Title: University of Hawaii Carpool
 
 Name: Hanna Park, Jui-Chen Tang,  Kayla Kwock
@@ -21,7 +23,7 @@ High Fuel cost
 Driver could have unstable schedule
 Carpoolers feel unsafe when they ride with strangers
  
-**Our solution is a website which would allow users to organize carpools with other members of UH. Users can sign up to be a driver/rider, and drivers can search for riders that are most convenient to/from campus. These carpools can be recurring such as everyday classes or one-time such as for special events. **
+**Our solution is a website which would allow users to organize carpools with other members of UH. Users can sign up to be a driver/rider, and drivers can search for riders that are most convenient to/from campus. These carpools can be recurring such as everyday classes or one-time such as for special events.**
 
 Solutions:
 Require UH emails to login and post
