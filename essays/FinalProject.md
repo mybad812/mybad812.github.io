@@ -9,8 +9,9 @@ labels:
   - Questions
   - Soluctions
   - Ideas
-  
-##Project Title: University of Hawaii Carpool
+--- 
+
+## Project Title: University of Hawaii Carpool
 
 Name: Hanna Park, Jui-Chen Tang,  Kayla Kwock
 
