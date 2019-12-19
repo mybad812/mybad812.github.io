@@ -1,6 +1,6 @@
 ---
 layout: project
-type: Final Project
+type: project
 image: images/studymatchs.png
 title: StudyMatchs
 permalink: projects/StudyMatchs
