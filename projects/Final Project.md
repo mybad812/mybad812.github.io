@@ -1,7 +1,7 @@
 ---
 layout: project
 type: Final Project
-image: images/studymatchs.jpg
+image: images/studymatchs.png
 title: StudyMatchs
 permalink: projects/StudyMatchs
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,6 @@ labels:
 summary: StudyMatchs is a website with the goal to create study groups at University of Hawaii at Manoa
 ---
 
-## Overview
 
 
 
