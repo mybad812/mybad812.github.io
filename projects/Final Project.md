@@ -16,6 +16,8 @@ Love is always the best motivation to make people learning more and more. This i
 
 In this project, I am responsible for editing personal information and displaying. Here is the page looks like.
 
+<img src="images/showprofile.png">
+
 
 
 
