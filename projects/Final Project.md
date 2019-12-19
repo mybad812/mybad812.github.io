@@ -8,7 +8,7 @@ permalink: projects/StudyMatchs
 date: 2019-12-17
 labels:
   - meteor
-summary: [Studymatchs](http://studymatchs.meteorapp.com) is a website with the goal to create study groups at University of Hawaii at Manoa
+summary: StudyMatchs is a website with the goal to create study groups at University of Hawaii at Manoa
 ---
 
 ## Overview
