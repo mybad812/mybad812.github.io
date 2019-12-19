@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: software engineering technical essay
+title: Software Engineering Technical Essay
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-17
 labels:
