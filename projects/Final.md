@@ -11,6 +11,5 @@ labels:
 summary: StudyMatchs is a website with the goal to create study groups at University of Hawaii at Manoa
 ---
 
-**overview**
 
 test
