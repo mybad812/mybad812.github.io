@@ -11,13 +11,10 @@ labels:
 summary: StudyMatchs is a website with the goal to create study groups at University of Hawaii at Manoa
 ---
 
-[Studymatchs](http://studymatchs.meteorapp.com)
-[GitHub Project Page]https://studymatchs.github.io/
-
 Love is always the best motivation to make people learning more and more. This is the reason why I named this website as SudyMatchs. By interacting, knowing and seeing other students may help you to find your love. 
 
 In this project, I am responsible for editing personal information and displaying. Here is the page looks like.
-<img src="images/showprofile.png">
+
 
 
 
